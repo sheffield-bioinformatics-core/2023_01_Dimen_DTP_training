@@ -90,3 +90,4 @@ If this is the case, you will need to follow the instructions from this link to 
 
 ```
 source("https://raw.githubusercontent.com/sheffield-bioinformatics-core/r-online/master/check_packages.R")
+```
