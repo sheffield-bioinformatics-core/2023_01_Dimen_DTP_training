@@ -33,7 +33,12 @@ After the course you should feel confident to start exploring your own dataset u
 - 12:30 - 13:15 LUNCH
 - 13:15 - 15:00 Summarizing and joining tables
 
+## Materials
 
+- [Slides](https://sbc.shef.ac.uk/r-online/intro_slides.html)
+- [Part 1](https://sbc.shef.ac.uk/r-online/part1.nb.html)
+- [Part 2](https://sbc.shef.ac.uk/r-online/part2.nb.html)
+- [Part 3](https://sbc.shef.ac.uk/r-online/part3.nb.html)
 
 ## Setup
 
