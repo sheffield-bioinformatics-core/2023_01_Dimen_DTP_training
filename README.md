@@ -38,6 +38,7 @@ After the course you should feel confident to start exploring your own dataset u
 - [Slides](https://sbc.shef.ac.uk/r-online/intro_slides.html)
 - [Part 1](https://sbc.shef.ac.uk/r-online/part1.nb.html)
 - [Part 2](https://sbc.shef.ac.uk/r-online/part2.nb.html)
+- [Part 2 - Solutions](https://sbc.shef.ac.uk/r-online/part2-solution.nb.html)
 - [Part 3](https://sbc.shef.ac.uk/r-online/part3.nb.html)
 
 ## Setup
