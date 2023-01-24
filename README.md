@@ -41,6 +41,13 @@ After the course you should feel confident to start exploring your own dataset u
 - [Part 2 - Solutions](https://sbc.shef.ac.uk/r-online/part2-solution.nb.html)
 - [Part 3](https://sbc.shef.ac.uk/r-online/part3.nb.html)
 
+## Feedback
+
+Please let us know what your thought of the course by filling-in this short feedback form
+
+- [Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSduKv0ej_bgAYrK5_5AMfZhdQiOKPYu1ZhbWzHC7v4rRDsZbA/viewform)
+
+
 ## Setup
 
 These instructions are also described in a video:- [https://youtu.be/QIubJ8W8R4g](https://youtu.be/QIubJ8W8R4g)
@@ -96,11 +103,6 @@ If this is the case, you will need to follow the instructions from this link to 
 
 ```
 source("https://raw.githubusercontent.com/sheffield-bioinformatics-core/r-online/master/check_packages.R")
-
-
-## Feedback
-
-Please let us know what your thought of the course by filling-in this short feedback form
-
-- [Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSduKv0ej_bgAYrK5_5AMfZhdQiOKPYu1ZhbWzHC7v4rRDsZbA/viewform)
 ```
+
+
